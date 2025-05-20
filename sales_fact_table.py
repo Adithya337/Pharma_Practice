@@ -73,4 +73,4 @@ def generate_sales_data(region_id):
 for rid in region_ids:
     generate_sales_data(rid)
 
-#Testing fetch vs pull
+#Testing fetch vs pull - 2

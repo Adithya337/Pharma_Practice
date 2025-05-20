@@ -1,0 +1,13 @@
+region_id,region_name,state,zone,urban_rural_flag
+1,Region_1,Kansas,North,Urban
+2,Region_2,Wyoming,East,Urban
+3,Region_3,Oklahoma,North,Urban
+4,Region_4,Nevada,West,Rural
+5,Region_5,Alabama,North,Rural
+6,Region_6,Nevada,Central,Urban
+7,Region_7,New Jersey,Central,Urban
+8,Region_8,Washington,West,Urban
+9,Region_9,North Carolina,Central,Rural
+10,Region_10,Pennsylvania,Central,Rural
+11,Region_11,Texas,East,Rural
+12,Region_12,Nevada,East,Rural

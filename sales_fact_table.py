@@ -72,3 +72,5 @@ def generate_sales_data(region_id):
 # Generate CSV for each region
 for rid in region_ids:
     generate_sales_data(rid)
+
+#Testing fetch vs pull
